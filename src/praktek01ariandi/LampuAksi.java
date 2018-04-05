@@ -17,5 +17,7 @@ public class LampuAksi {
         Arinadi.harga="25000";
         Arinadi.warna="Putih";
         Arinadi.jenis="Spiral";
+        
+        Arinadi.cetakInfo();
     }
 }

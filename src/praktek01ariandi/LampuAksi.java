@@ -11,6 +11,7 @@ package praktek01ariandi;
  */
 public class LampuAksi {
     public static void main(String[] args) {
+        Lampu Arinadi = new Lampu();
         
     }
 }

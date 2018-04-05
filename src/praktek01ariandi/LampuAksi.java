@@ -13,5 +13,9 @@ public class LampuAksi {
     public static void main(String[] args) {
         Lampu Arinadi = new Lampu();
         
+        Arinadi.merk="Vilips";
+        Arinadi.harga="25000";
+        Arinadi.warna="Putih";
+        Arinadi.jenis="Spiral";
     }
 }
